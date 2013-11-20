@@ -1,0 +1,14 @@
+/*
+Plantilla estructura básica proyecto AZDesarrollo
+*/
+/* 
+    Created on : 20/11/2013, 14:28:34
+    Author     : Ieltxu Algañarás ieltxu.alganaras@gmail.com
+*/
+
+/*
+    Regla para que las columnas ocupen el toda la altura
+*/
+body, html .container .row{
+    height: 100%;
+}
